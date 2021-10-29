@@ -1,7 +1,7 @@
-# $TITULO_DO_CURSO$
+# Numbers in Python
 
-Esse repositório contém os exercícios e anotações do curso
-[TITULO](LINK), da Alura.
+Esse repositório contém os exercícios e anotações do tutorial
+[Numbers in Python](https://realpython.com/python-numbers/), do sitre [Real Python](https://realpython.com/).
 
 ## Ferramentas usadas nesse repositótio
 
